@@ -22,5 +22,3 @@ def media():
 
     return jsonify({'result': result})
 
-
-app.run()
